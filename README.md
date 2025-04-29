@@ -9,22 +9,22 @@
 </div>
 
 ###
-
+</div align="left">
 <p align="left">My name is Bojja Praveeen and I'm a Data Analyst.</p>
-
+</div>
 ###
-
+</div align="left">
 <h2 align="left">I am a skilled Data Analyst and Full-Stack Web Developer with a passion for transforming data into actionable insights and building scalable, user-friendly web applications. With expertise in data visualization, statistical analysis, and database management, I excel at turning complex datasets into meaningful narratives that drive decision-making. On the development side, I specialize in creating responsive and interactive web solutions using modern frameworks and technologies, ensuring seamless user experiences. I thrive at the intersection of data and development, leveraging my diverse skill set to solve problems creatively and efficiently."
 </h2>
-
+</div>
 ###
-
+</div align="left">
 <p align="left">✨ Creating bugs <br>📚 I'm currently learning Genarative AI,figma and canva <br></p>
-
+</div>
 ###
-
+</div align="left">
 <h2 align="left">I code with Python, Java Script</h2>
-
+</div>
 
 ###
 
@@ -63,6 +63,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+</div>
 </div>
 
 ###
