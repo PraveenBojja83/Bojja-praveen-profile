@@ -2,20 +2,20 @@
 
 ###
 
-<p align="left">I'm a Data Analyst and Full Stack Web Developer</p>
+<h2 align="left">I'm a Data Analyst and Full Stack Web Developer</h2>
 
 ###
 
 <h2 align="left">"I am a highly skilled Data Analyst and Full-Stack Web Developer with a passion for transforming data into actionable insights and building scalable, user-friendly web applications. With expertise in data visualization, statistical analysis, and database management, I excel at turning complex datasets into meaningful narratives that drive decision-making. On the development side, I specialize in creating responsive and interactive web solutions using modern frameworks and technologies, ensuring seamless user experiences. I thrive at the intersection of data and development, leveraging my diverse skill set to solve problems creatively and efficiently."</h2>
 
 ###
-<p align="left">✨<br>📚 I'm currently learning Generative AI, Figma<br></p>
+<h2 align="left">✨<br>📚 I'm currently learning Generative AI, Figma<br></h2>
 ###
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bojja-praveen-b2557b315/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveenbojja1983@gmail.com) 
