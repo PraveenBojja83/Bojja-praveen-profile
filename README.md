@@ -22,7 +22,12 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bojja-praveen-b2557b315/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveenbojja1983@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bojja-praveen-b2557b315/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveenbojja1983@gmail.com)
+
+##
+<div style="overflow-y: scroll; max-height: 300px; padding: 10px;">
+Your long content here. This content will scroll if it exceeds the maximum height.
+</div>
 
 
 
