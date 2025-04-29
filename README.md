@@ -1,4 +1,4 @@
-<h1 align="left">✨Hey Am Praveen Bojja</h1>
+<h1 align="left">Hey Am Praveen Bojja</h1>
 
 ###
 
@@ -9,9 +9,9 @@
 <p align="left">"✨I am a highly skilled Data Analyst and Full-Stack Web Developer with a passion for transforming data into actionable insights and building scalable, user-friendly web applications. With expertise in data visualization, statistical analysis, and database management, I excel at turning complex datasets into meaningful narratives that drive decision-making. On the development side, I specialize in creating responsive and interactive web solutions using modern frameworks and technologies, ensuring seamless user experiences. I thrive at the intersection of data and development, leveraging my diverse skill set to solve problems creatively and efficiently."</p>
 
 ###
-<h2 align="left">✨<br>📚 I'm currently learning Generative AI, Figma<br></h2>
-###
- 📊 GitHub Stats:
+<h2 align="left"><br>📚 I'm currently learning Generative AI, Figma<br></h2>
+
+📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
