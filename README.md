@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Bojja Praveeen and I'm a Data Analyst.</p>
 
 ###
 
