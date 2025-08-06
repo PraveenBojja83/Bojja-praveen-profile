@@ -19,6 +19,8 @@ Data Analytics – Gained hands-on experience in data visualization (Tableau, Po
 
 Full Stack Web Development – Built responsive web applications using modern frameworks and tools (HTML, CSS, JavaScript, React, Node.js, MongoDB).
 
+Artificial Intelligence – Developed AI models, gained hands-on experience with data preprocessing, model training, and evaluation using popular frameworks,Applied machine learning and deep learning techniques to real-world problems during an Artificial Intelligence internship.
+
 Generative AI – Explored prompt engineering, fine-tuning models (GPT, LLaMA), and building AI-powered applications (chatbots, RAG pipelines, etc.).<br></h2>
 
 📊 GitHub Stats:
