@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">✨I'm a Data Analyst and Full Stack Web Developer</h2>
+<h2 align="left">✨I'm a Data Analyst,Full Stack Web Developerand Ai& Generative AI Specialist</h2>
 
 ###
 
